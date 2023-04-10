@@ -1,13 +1,5 @@
-let a = 5;
-let b = 7;
-let c = 3;
+console.log(2>=2); // true.
 
-if ((a>b) && (a>c)) {
-  console.log("a is greatest");
-}
-else if ((b>a) && (b>c)) {
-  console.log("b is greatest");
-}
-else {
-  console.log("c is greatest");
-}
+console.log(5>=1); //true.
+
+console.log(1>=6); //false.

@@ -1,10 +1,7 @@
-let birthYear = 2000;
-let presentYear = 2023;
-let age = presentYear - birthYear;
+console.log(2<3); // true
 
-if (age >= 13 && age <= 19) {
-  console.log("Teenage");
-}
-else if (age >= 20 && age <= 29) {
-  console.log("Twenties");
-}
+console.log(4<5); //true
+
+console.log(4<1); // false
+
+console.log(3<3); //false

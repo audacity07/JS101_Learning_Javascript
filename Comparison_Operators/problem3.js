@@ -1,5 +1,5 @@
-let char = "z";
+console.log(17>1); //true
 
-if (!(char === "a") || (char === "e") || (char === "i") || (char === "o") || (char === "u")) {
-  console.log("Consonant");
-}
+console.log(100>100); //false
+
+console.log(1>13); //false

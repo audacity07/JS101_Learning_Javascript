@@ -1,5 +1,5 @@
-let char = "a";
+console.log(2<=3); //true
 
-if ((char === "a") || (char === "e") || (char === "i") || (char === "o") || (char === "u")) {
-  console.log("Vowel");
-}
+console.log(2<=2); // true;
+
+console.log(5<=0); // false
