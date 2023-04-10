@@ -1,0 +1,26 @@
+let name = "Rahul"; 
+let school = "XYZ International School"; 
+let grade = 5; 
+let section = "A"; 
+let rollno = 48;
+let maths = 100, science = 98, english = 92;
+
+console.log();
+console.log("******************** REPORT CARD ********************");
+console.log("*                                                   *");
+console.log("*    Name    : ", name , "                              *");
+console.log("*    School  : ", school , "           *");
+console.log("*    Grade   : ", grade , "                                  *");
+console.log("*    Section : ", section , "                                  *");
+console.log("*    RollNo  : ", rollno , "                                 *");
+console.log("*                                                   *");
+console.log("*    ---------------------------------------        *");
+console.log("*    |      SUBJECT      |      MARKS      |        *");
+console.log("*    ---------------------------------------        *");
+console.log("*    |      Maths        |      ",maths,"      |        *");
+console.log("*    |      Science      |      ",science,"       |        *");
+console.log("*    |      English      |      ",english,"       |        *");
+console.log("*    ---------------------------------------        *");
+console.log("*                                                   *");
+console.log("*****************************************************");
+console.log();
